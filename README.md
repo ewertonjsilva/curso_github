@@ -1,2 +1,4 @@
-# curso_github
- Curso Git - Git Hub
+# Olá, mundo
+Primeiro repositório do Curso Git - Git Hub
+
+Criado assim que formatei meu computador!
