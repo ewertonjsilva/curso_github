@@ -55,3 +55,12 @@ Fim da tabela
 
 Inserir comandos com texto destacado `console.log`
 
+Inserir trechos de programa
+```
+if (x !=== 3) {
+    console.log('oi');
+} else {
+    console.log(':-D');
+}
+```
+
