@@ -42,3 +42,16 @@ Link: [Texto do link](https://github.com/ewertonjsilva)
 
 
 Imagem: ![Texto da imagem](https://github.com/ewertonjsilva.png)
+
+Tabela: 
+
+Coluna 1 | Coluna 2 | Coluna 3
+---|---|---
+1 | Guaraná | R$ 5,00
+2 | Suco | R$ 8,00
+3 | Salgado | R$ 4,00
+
+Fim da tabela
+
+Inserir comandos com texto destacado 'console.log'
+
