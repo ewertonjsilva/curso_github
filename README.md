@@ -64,11 +64,11 @@ if (x !=== 3) {
 }
 ```
 
-Uso de emojis - disponibilizado no gitHub da @ikatyang
+Uso de emojis 
 
 🖖 🙂 ✍️
 
-[Lista emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+[Lista emojis](https://github.com/ikatyang/emoji-cheat-sheet) - disponibilizado no gitHub da @ikatyang - https://github.com/ikatyang
 
 É possível copiar emoji do site a seguir e colar no título da issues ou em outros locais [link](https://emojipedia.org/)
 
