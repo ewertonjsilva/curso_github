@@ -38,7 +38,7 @@ Lista de tarefas:
 - [x] tarefa 2
 - [ ] tarefa 3 (para marcar basta marcar com x no lugar do espaço)
 
-Link: [Texto do link] (https://github.com/ewertonjsilva)
+Link: [Texto do link](https://github.com/ewertonjsilva)
 
 
-Imagem: ![Texto da imagem] (https://github.com/ewertonjsilva.png)
+Imagem: ![Texto da imagem](https://github.com/ewertonjsilva.png)
