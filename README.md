@@ -68,3 +68,8 @@ Uso de emojis
 
 🖖 🙂 ✍️
 
+[Lista emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+É possível copiar emoji do site a seguir e colar no título da issues ou em outros locais [link](https://emojipedia.org/)
+
+
