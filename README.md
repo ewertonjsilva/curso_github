@@ -66,5 +66,5 @@ if (x !=== 3) {
 
 Uso de emojis
 
-:vulcan_salutes
+🖖 🙂 ✍️
 
