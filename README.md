@@ -53,5 +53,5 @@ Coluna 1 | Coluna 2 | Coluna 3
 
 Fim da tabela
 
-Inserir comandos com texto destacado ´console.log´
+Inserir comandos com texto destacado `console.log`
 
